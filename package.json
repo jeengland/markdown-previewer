@@ -1,0 +1,25 @@
+{
+  "name": "markdown-previewer",
+  "version": "1.0.0",
+  "description": "Markdown previewer for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeengland/markdown-previewer.git"
+  },
+  "author": "jeengland",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel": "^1.12.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "sass": "^1.17.4"
+  }
+}
