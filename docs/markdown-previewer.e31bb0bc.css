@@ -1,0 +1,16 @@
+body {
+  background-color: steelblue;
+}
+
+#preview {
+  background-color: white;
+  padding: 20px;
+  border-radius: 13px;
+}
+
+#editor {
+  min-height: 300px;
+  min-width: 40%;
+}
+
+/*# sourceMappingURL=/markdown-previewer.e31bb0bc.css.map */
